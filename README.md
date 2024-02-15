@@ -4,7 +4,7 @@
 
 <h1>Glowing Pong Game</h1>
 
-<h4> <span> · </span> <a href=https://nishantjoshi-007.github.io/Glowing_Pong_Game/>View Demo</a> <span> · </span> <a href=https://nishantjoshi-007.github.io/Glowing_Pong_Game/>Local Version</a> <span> · </span> <a href="https://github.com/nishantjoshi-007/Glowing_Pong_Game/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/nishantjoshi-007/Glowing_Pong_Game/issues"> Request Feature </a> </h4>
+<h4> <span> · </span> <a href=https://nishantjoshi-007.github.io/Glowing_Pong_Game/>View Demo</a> <span> · </span> <a href=https://github.com/nishantjoshi-007/Glowing_Pong_Game/blob/local_deployment/README.md>Local Version</a> <span> · </span> <a href="https://github.com/nishantjoshi-007/Glowing_Pong_Game/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/nishantjoshi-007/Glowing_Pong_Game/issues"> Request Feature </a> </h4>
 
 
 </div>
