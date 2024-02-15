@@ -11,14 +11,14 @@
 </div>
 
 
+## :star2: About the Project
+<p>This a repository for glowing pong game that is created using Unity game engine. There is extensive use of C# in this game to define different objective and different rules in the game.</p>
+
 ### :running: Run Locally
 To Run Locally, Clone this branch in Glowing Pong repository:
 ```bash
 git clone -b local_deployment --single-branch https://github.com/nishantjoshi-007/Glowing_Pong_Game.git
 ```
-
-## :star2: About the Project
-<p>This a repository for glowing pong game that is created using Unity game engine. There is extensive use of C# in this game to define different objective and different rules in the game.</p>
 
 ## :warning: License
 Distributed under the MIT License. See <a href=LICENSE>LICENSE.txt</a> for more information.
