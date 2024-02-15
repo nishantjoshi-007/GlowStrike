@@ -6,8 +6,6 @@
 
 <h4> <span> · </span> <a href=https://nishantjoshi-007.github.io/Glowing_Pong_Game/>View Demo</a> 
   <span> · </span> <a href=https://github.com/nishantjoshi-007/Glowing_Pong_Game/tree/local_deployment>Local Version</a> 
-  <span> · </span> <a href="https://github.com/nishantjoshi-007/Glowing_Pong_Game/issues"> Report Bug </a> 
-  <span> · </span> <a href="https://github.com/nishantjoshi-007/Glowing_Pong_Game/issues"> Request Feature </a> 
 </h4>
 
 </div>
@@ -20,6 +18,7 @@
 Distributed under the MIT License. See <a href=LICENSE>LICENSE.txt</a> for more information.
 
 ## :handshake: Contact
-
-- Nishant Joshi - [@github_handle](https://github.com/nishantjoshi-007)
-- Project Link: [https://github.com/nishantjoshi-007/Glowing_Pong_Game.git](https://github.com/nishantjoshi-007/Glowing_Pong_Game.git)
+- <span> · </span> <a href=https://github.com/nishantjoshi-007>Github Handle</a>
+- <span> · </span> <a href=https://github.com/nishantjoshi-007/Glowing_Pong_Game.git>Project Repository</a>
+- <span> · </span> <a href="https://github.com/nishantjoshi-007/Glowing_Pong_Game/issues"> Report Bug </a>
+- <span> · </span> <a href="https://github.com/nishantjoshi-007/Glowing_Pong_Game/issues"> Request Feature </a> 
