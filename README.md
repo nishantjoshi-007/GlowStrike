@@ -27,6 +27,6 @@ Distributed under the no License. See LICENSE.txt for more information.
 
 ## :handshake: Contact
 
-Nishant Joshi - [@github_handle](https://github.com/nishantjoshi-007) - nj26@njit.edu
-
-Project Link: [https://github.com/nishantjoshi-007/Glowing_Pong_Game.git](https://github.com/nishantjoshi-007/Glowing_Pong_Game.git)
+- Nishant Joshi - [@github_handle](https://github.com/nishantjoshi-007)
+- nj26@njit.edu
+- Project Link: [https://github.com/nishantjoshi-007/Glowing_Pong_Game.git](https://github.com/nishantjoshi-007/Glowing_Pong_Game.git)
