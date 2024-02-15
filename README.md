@@ -22,8 +22,12 @@
 - Customizable Match Settings: Before each game, select your desired victory condition by choosing the number of points needed to win the match. Options include 5, 7, or 9 points, allowing for quick games or more extended battles.
 
 ## :warning: License
-
 Distributed under the MIT License. See <a href=LICENSE>LICENSE.txt</a> for more information.
+
+## :wave: Contributing
+<a href="https://github.com/nishantjoshi-007/Glowing_Pong_Game.git/graphs/contributors"> <img src="https://contrib.rocks/image?repo=Louis3797/awesome-readme-template" /> </a>
+Contributions are always welcome!
+see `contributing.md` for ways to get started
 
 ## :handshake: Contact
 - <a href=https://github.com/nishantjoshi-007>Github Handle</a>
