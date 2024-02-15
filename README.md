@@ -28,7 +28,7 @@ git clone -b local_deployment --single-branch https://github.com/nishantjoshi-00
 ```
 - After that, go to the folder where you cloned the repository.
 - Open Glowing Pong.exe
-#### Enjoy The Game
+- Enjoy The Game
 
 ## :warning: License
 Distributed under the MIT License. See <a href=https://github.com/nishantjoshi-007/Glowing_Pong_Game/blob/main/LICENSE>LICENSE.txt</a> for more information.
