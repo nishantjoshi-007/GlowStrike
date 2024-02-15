@@ -6,7 +6,7 @@
 
 <h4> 
   <span> · </span> <a href=https://nishantjoshi-007.github.io/Glowing_Pong_Game/>View Online Demo</a>
-  <span> · </span> <a href=https://nishantjoshi-007.github.io/Glowing_Pong_Game/>View Online Version</a>
+  <span> · </span> <a href=https://github.com/nishantjoshi-007/Glowing_Pong_Game/tree/main>View Online Version</a>
 </h4>
 </div>
 
