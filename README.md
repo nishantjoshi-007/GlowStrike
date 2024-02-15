@@ -1,6 +1,6 @@
 <div align='center'>
 
-<img src=logo.png alt="logo" width=400 height=400 />
+<img src=https://github.com/nishantjoshi-007/Glowing_Pong_Game/blob/main/logo.png alt="logo" width=400 height=400 />
 
 <h1>Glowing Pong Game</h1>
 
