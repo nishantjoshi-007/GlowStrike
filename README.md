@@ -26,8 +26,7 @@ Distributed under the MIT License. See <a href=LICENSE>LICENSE.txt</a> for more 
 
 ## :wave: Contributing
 <a href="https://github.com/nishantjoshi-007/Glowing_Pong_Game.git/graphs/contributors"> <img src="https://contrib.rocks/image?repo=Louis3797/awesome-readme-template" /> </a>
-Contributions are always welcome!
-see `contributing.md` for ways to get started
+<p>Contributions to the Glowing Pong Game are always welcome! Whether it's reporting bugs, suggesting new features, or improving the code, your input is valuable. Please feel free to fork this repository, make your changes, and submit a pull request.</p>
 
 ## :handshake: Contact
 - <a href=https://github.com/nishantjoshi-007>Github Handle</a>
