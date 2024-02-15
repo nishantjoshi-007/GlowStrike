@@ -23,7 +23,7 @@ https://nishantjoshi-007.github.io/Glowing_Pong_Game/
 
 ## :warning: License
 
-Distributed under the MIT License. See <a href=https://nishantjoshi-007.github.io/Glowing_Pong_Game/>LICENSE.txt</a> for more information.
+Distributed under the MIT License. See <a href=LICENSE>LICENSE.txt</a> for more information.
 
 ## :handshake: Contact
 
