@@ -5,7 +5,7 @@
 <h1>Glowing Pong Game</h1>
 
 <h4> 
-  <span> · </span> <a href=https://nishantjoshi-007.github.io/Glowing_Pong_Game/>Online Demo</a> 
+  <span> · </span> <a href="https://nishantjoshi-007.github.io/Glowing_Pong_Game/" target="_blank">Online Demo</a>
   <span> · </span> <a href=https://github.com/nishantjoshi-007/Glowing_Pong_Game/tree/WebGl_deployment>Online Version</a> 
   <span> · </span> <a href=https://github.com/nishantjoshi-007/Glowing_Pong_Game/tree/local_deployment>Local Version</a> 
 </h4>
