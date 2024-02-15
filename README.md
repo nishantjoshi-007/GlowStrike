@@ -18,7 +18,7 @@
 Distributed under the MIT License. See <a href=LICENSE>LICENSE.txt</a> for more information.
 
 ## :handshake: Contact
-- <span> · </span> <a href=https://github.com/nishantjoshi-007>Github Handle</a>
-- <span> · </span> <a href=https://github.com/nishantjoshi-007/Glowing_Pong_Game.git>Project Repository</a>
-- <span> · </span> <a href="https://github.com/nishantjoshi-007/Glowing_Pong_Game/issues"> Report Bug </a>
-- <span> · </span> <a href="https://github.com/nishantjoshi-007/Glowing_Pong_Game/issues"> Request Feature </a> 
+- <a href=https://github.com/nishantjoshi-007>Github Handle</a>
+- <a href=https://github.com/nishantjoshi-007/Glowing_Pong_Game.git>Project Repository</a>
+- <a href="https://github.com/nishantjoshi-007/Glowing_Pong_Game/issues"> Report Bug </a>
+- <a href="https://github.com/nishantjoshi-007/Glowing_Pong_Game/issues"> Request Feature </a> 
