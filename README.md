@@ -9,12 +9,6 @@
 
 </div>
 
-# :notebook_with_decorative_cover: Table of Contents
-- [Run Locally](#running-run-locally)
-- [About the Project](#star2-about-the-project)
-- [License](#warning-license)
-- [Contact](#handshake-contact)
-
 ### :running: Run Locally
 
 To Run Locally, Clone this branch in Glowing Pong repository:
