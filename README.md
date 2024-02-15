@@ -2,7 +2,7 @@ https://nishantjoshi-007.github.io/Glowing_Pong_Game/
 
 <div align='center'>
 
-<img src=https://drive.google.com/file/d/1NAlAzvcC-kLjuD83RPrbKtVEA7I_rcOB/view?usp=sharing alt="logo" width=1024 height=1024 />
+<img src=logo.png alt="logo" width=1024 height=1024 />
 
 <h1>Glowing Pong Game</h1>
 
