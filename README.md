@@ -25,7 +25,7 @@
 Distributed under the MIT License. See <a href=LICENSE>LICENSE.txt</a> for more information.
 
 ## :wave: Contributing
-Contributions to the Glowing Pong Game are always welcome! Whether it's reporting bugs, suggesting new features, or improving the code, your input is valuable. Please feel free to fork this repository, make your changes, and submit a pull request. <img src="https://contrib.rocks/image?repo=Louis3797/awesome-readme-template" />  
+<img src="https://contrib.rocks/image?repo=Louis3797/awesome-readme-template" /> Contributions to the Glowing Pong Game are always welcome! Whether it's reporting bugs, suggesting new features, or improving the code, your input is valuable. Please feel free to fork this repository, make your changes, and submit a pull request.
 
 ## :handshake: Contact
 - <a href=https://github.com/nishantjoshi-007>Github Handle</a>
