@@ -6,10 +6,10 @@
 
 ### :running: Run Locally
 
-To Run Locally, Clone this repository:
+To Run Locally, Clone this branch in Glowing Pong repository:
 
 ```bash
-https://github.com/nishantjoshi-007/Glowing_Pong_Game.git
+git clone -b local_deployment --single-branch https://github.com/nishantjoshi-007/Glowing_Pong_Game.git
 ```
 
 <h4> <span> · </span> <a href=https://nishantjoshi-007.github.io/Glowing_Pong_Game/>View Demo</a> <span> · </span> <a href="https://github.com/nishantjoshi-007/Glowing_Pong_Game/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/nishantjoshi-007/Glowing_Pong_Game/issues"> Request Feature </a> </h4>
