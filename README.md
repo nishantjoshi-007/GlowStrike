@@ -26,10 +26,10 @@
 ## :toolbox: Getting Started
 ### :bangbang: Prerequisites
 
-- Install Unity Hub & Unity Editor<a href="https://store.unity.com/download"> Here</a>
-- MS Build Tools<a href="https://visualstudio.microsoft.com/downloads/"> Here</a>
+- Install Unity Hub & Unity Editor <a href="https://store.unity.com/download">Here</a>
+- MS Build Tools <a href="https://visualstudio.microsoft.com/downloads/">Here</a>
   - Scroll down to "Tools for Visual Studio" and choose "Build Tools for Visual Studio 2022" 
-- Visual Studio Code as code editor<a href="https://code.visualstudio.com/"> Here</a>
+- Visual Studio Code as code editor <a href="https://code.visualstudio.com/">Here</a>
 
 ## :warning: License
 Distributed under the MIT License. See <a href=LICENSE>LICENSE.txt</a> for more information.
