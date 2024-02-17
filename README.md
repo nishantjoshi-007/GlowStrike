@@ -23,8 +23,7 @@
   - One Player vs. PC: Go solo and test your abilities against the computer. With adjustable difficulty levels (Easy, Medium, and Hard), you can tailor the challenge to match your skill level.
 - Customizable Match Settings: Before each game, select your desired victory condition by choosing the number of points needed to win the match. Options include 5, 7, or 9 points, allowing for quick games or more extended battles.
 
-## :toolbox: Getting Started
-### :bangbang: Prerequisites
+## :bangbang: Prerequisites
 
 - Install Unity Hub & Unity Editor <a href="https://store.unity.com/download">Here</a>
 - MS Build Tools <a href="https://visualstudio.microsoft.com/downloads/">Here</a>
