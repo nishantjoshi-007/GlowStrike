@@ -23,6 +23,14 @@
   - One Player vs. PC: Go solo and test your abilities against the computer. With adjustable difficulty levels (Easy, Medium, and Hard), you can tailor the challenge to match your skill level.
 - Customizable Match Settings: Before each game, select your desired victory condition by choosing the number of points needed to win the match. Options include 5, 7, or 9 points, allowing for quick games or more extended battles.
 
+## :toolbox: Getting Started
+### :bangbang: Prerequisites
+
+- Install Unity Hub & Unity Editor<a href="https://store.unity.com/download"> Here</a>
+- MS Build Tools<a href="https://visualstudio.microsoft.com/downloads/"> Here</a>
+  - Scroll down to "Tools for Visual Studio" and choose "Build Tools for Visual Studio 2022" 
+- Visual Studio Code as code editor<a href="https://code.visualstudio.com/"> Here</a>
+
 ## :warning: License
 Distributed under the MIT License. See <a href=LICENSE>LICENSE.txt</a> for more information.
 
