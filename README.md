@@ -15,7 +15,7 @@
 ## :star2: About the Project
 <p>Welcome to the official repository for the Glowing Pong Game, an exhilarating digital rendition of the classic Pong game, enhanced with a vibrant glowing aesthetic. Developed using the powerful Unity Game Engine and programmed in C#, this game brings a fresh twist to the timeless arcade game by introducing a visually captivating glow effect, dynamic physics, and multiple gameplay modes to cater to different player preferences.</p>
 
-### :dart: Features
+## :dart: Features
 - Vibrant Glowing Aesthetics: Dive into a visually stunning gaming experience with glowing elements that enhance the classic Pong game's look and feel.
 - Dynamic Physics: Experience realistic and responsive game physics. The game's physics rules are meticulously coded in C# to ensure smooth and authentic ball movement and collision effects.
 - Multiple Gameplay Modes: Choose from two engaging gameplay modes to suit your style:
