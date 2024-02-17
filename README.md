@@ -26,6 +26,7 @@
 ## :bangbang: Prerequisites
 
 - Install Unity Hub & Unity Editor <a href="https://store.unity.com/download">Here</a>
+  - This project is developed using Unity Editor Version 2022.3.1 <a href="https://unity.com/releases/editor/archive">Here</a>
 - MS Build Tools <a href="https://visualstudio.microsoft.com/downloads/">Here</a>
   - Scroll down to "Tools for Visual Studio" and choose "Build Tools for Visual Studio 2022" 
 - Visual Studio Code as code editor <a href="https://code.visualstudio.com/">Here</a>
