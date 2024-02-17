@@ -1,0 +1,87 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body {
+            font-family: 'Courier New', monospace;
+            background-color: #000;
+            color: #fff;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        .table-container {
+            box-shadow: 0 4px 8px 0 rgba(0,255,0,0.6);
+            border-radius: 8px;
+            overflow: hidden;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 0;
+        }
+
+        caption {
+            background-color: #111;
+            color: #0f0;
+            font-size: 24px;
+            padding: 10px;
+            text-align: left;
+        }
+
+        thead {
+            background-color: #222;
+            color: #0f0;
+        }
+
+        th, td {
+            text-align: center;
+            padding: 10px;
+            border-bottom: 1px solid #333;
+        }
+
+        tbody tr:nth-child(odd) {
+            background-color: #111;
+        }
+
+        tbody tr:nth-child(even) {
+            background-color: #222;
+        }
+
+        tbody tr:hover {
+            background-color: #333;
+        }
+    </style>
+</head>
+<body>
+    <div class="table-container">
+        <table>
+            <caption>Controller Settings</caption>
+            <thead>
+                <tr>
+                    <th>Player</th>
+                    <th>UP</th>
+                    <th>DOWN</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Player 1</td>
+                    <td>W</td>
+                    <td>S</td>
+                </tr>
+                <tr>
+                    <td>Player 2</td>
+                    <td>↑ (up-arrow key)</td>
+                    <td>↓ (down-arrow key)</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>
