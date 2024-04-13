@@ -1,18 +1,18 @@
 <div align='center'>
 
-<img src=https://github.com/nishantjoshi-007/Glowing_Pong_Game/blob/main/logo.png alt="logo" width=400 height=400 />
+<img src=https://github.com/nishantjoshi-007/GlowStrike/blob/main/logo.png alt="logo" width=400 height=400 />
 
-<h1>Glowing Pong Game Local Version</h1>
+<h1>Glow Strike Local Version</h1>
 
 <h4> 
-  <span> · </span> <a href=https://nishantjoshi-007.github.io/Glowing_Pong_Game/>View Online Demo</a>
-  <span> · </span> <a href=https://github.com/nishantjoshi-007/Glowing_Pong_Game/tree/main>View Online Version</a>
-  <span> · </span> <a href=https://github.com/nishantjoshi-007/Glowing_Pong_Game>Main Page</a>
+  <span> · </span> <a href=https://nishantjoshi-007.github.io/GlowStrike/>View Online Demo</a>
+  <span> · </span> <a href=https://github.com/nishantjoshi-007/GlowStrike/tree/main>View Online Version</a>
+  <span> · </span> <a href=https://github.com/nishantjoshi-007/GlowStrike>Main Page</a>
 </h4>
 </div>
 
 ## :star2: About the Project
-<p>Welcome to the official repository for the Glowing Pong Game, an exhilarating digital rendition of the classic Pong game, enhanced with a vibrant glowing aesthetic. Developed using the powerful Unity Game Engine and programmed in C#, this game brings a fresh twist to the timeless arcade game by introducing a visually captivating glow effect, dynamic physics, and multiple gameplay modes to cater to different player preferences.</p>
+<p>Welcome to the official repository for the Glow Strike, an exhilarating digital rendition of the classic Pong game, enhanced with a vibrant glowing aesthetic. Developed using the powerful Unity Game Engine and programmed in C#, this game brings a fresh twist to the timeless arcade game by introducing a visually captivating glow effect, dynamic physics, and multiple gameplay modes to cater to different player preferences.</p>
 
 ## :dart: Features
 - Vibrant Glowing Aesthetics: Dive into a visually stunning gaming experience with glowing elements that enhance the classic Pong game's look and feel.
@@ -25,17 +25,17 @@
 ## :running: Run Locally
 To Run Locally, Clone this branch in Glowing Pong repository:
 ```bash
-git clone -b local_deployment --single-branch https://github.com/nishantjoshi-007/Glowing_Pong_Game.git
+git clone -b local_deployment --single-branch https://github.com/nishantjoshi-007/GlowStrike.git
 ```
 - After that, go to the folder where you cloned the repository.
 - Open Glowing Pong.exe
 - Enjoy The Game
 
 ## :warning: License
-Distributed under the MIT License. See <a href=https://github.com/nishantjoshi-007/Glowing_Pong_Game/blob/main/LICENSE>LICENSE.txt</a> for more information.
+Distributed under the MIT License. See <a href=https://github.com/nishantjoshi-007/GlowStrike/blob/main/LICENSE>LICENSE.txt</a> for more information.
 
 ## :handshake: Contact
 - <a href=https://github.com/nishantjoshi-007>Github Handle</a>
-- <a href=https://github.com/nishantjoshi-007/Glowing_Pong_Game.git>Project Repository</a>
-- <a href="https://github.com/nishantjoshi-007/Glowing_Pong_Game/issues"> Report Bug </a>
-- <a href="https://github.com/nishantjoshi-007/Glowing_Pong_Game/issues"> Request Feature </a> 
+- <a href=https://github.com/nishantjoshi-007/GlowStrike.git>Project Repository</a>
+- <a href="https://github.com/nishantjoshi-007/GlowStrike/issues"> Report Bug </a>
+- <a href="https://github.com/nishantjoshi-007/GlowStrike/issues"> Request Feature </a> 
