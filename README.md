@@ -2,7 +2,7 @@
 
 <img src=logo.png alt="logo" width=400 height=400 />
 
-<h1>Glow Strike</h1>
+<h1>Glow Strike Online Version</h1>
 
 <h4> 
   <span> · </span> <a href=https://nishantjoshi-007.github.io/GlowStrike/>Online Demo</a>
