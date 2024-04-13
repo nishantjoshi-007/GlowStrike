@@ -23,7 +23,7 @@
 - Customizable Match Settings: Before each game, select your desired victory condition by choosing the number of points needed to win the match. Options include 5, 7, or 9 points, allowing for quick games or more extended battles.
 
 ## :running: Run Locally
-To Run Locally, Clone this branch in Glowing Pong repository:
+To Run Locally, Clone this branch in Glow Strike repository:
 ```bash
 git clone -b local_deployment --single-branch https://github.com/nishantjoshi-007/GlowStrike.git
 ```
