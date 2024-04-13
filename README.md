@@ -30,7 +30,7 @@
 - MS Build Tools <a href="https://visualstudio.microsoft.com/downloads/">Here</a>
   - Scroll down to "Tools for Visual Studio" and choose "Build Tools for Visual Studio 2022" 
 - Visual Studio Code as code editor <a href="https://code.visualstudio.com/">Here</a>
-- Clone this branch in Glowing Pong repository:
+- Clone this branch
 ```bash
 git clone -b main --single-branch https://github.com/nishantjoshi-007/Glowing_Pong_Game.git
 ```
