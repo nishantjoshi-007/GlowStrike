@@ -26,10 +26,5 @@
 - Customizable Match Settings: Before each game, select your desired victory condition by choosing the number of points needed to win the match. Options include 5, 7, or 9 points, allowing for quick games or more extended battles.
 
 ## :warning: License
-Distributed under the MIT License. See <a href=https://github.com/nishantjoshi-007/GlowStrike/blob/main/LICENSE>LICENSE.txt</a> for more information.
+Distributed under the MIT License. See <a href=https://github.com/nishantjoshi-007/GlowStrike/blob/main/LICENSE>LICENSE</a> for more information.
 
-## :handshake: Contact
-- <a href=https://github.com/nishantjoshi-007>Github Handle</a>
-- <a href=https://github.com/nishantjoshi-007/GlowStrike.git>Project Repository</a>
-- <a href="https://github.com/nishantjoshi-007/GlowStrike/issues"> Report Bug </a>
-- <a href="https://github.com/nishantjoshi-007/GlowStrike/issues"> Request Feature </a> 
