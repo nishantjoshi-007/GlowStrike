@@ -6,7 +6,7 @@
 
 <h4> 
   <span> · </span> <a href=https://nishantjoshi-007.github.io/GlowStrike/>Live Online Demo</a>
-  <span> · </span> <a href=https://github.com/nishantjoshi-007/GlowStrike/tree/main>View Online Version</a>
+  <span> · </span> <a href=https://github.com/nishantjoshi-007/GlowStrike/tree/main>View Online Page</a>
   <span> · </span> <a href=https://github.com/nishantjoshi-007/GlowStrike>Main Page</a>
 </h4>
 <h4>
