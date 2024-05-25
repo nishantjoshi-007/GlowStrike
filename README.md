@@ -5,9 +5,13 @@
 <h1>Glow Strike</h1>
 
 <h4> 
-  <span> · </span> <a href=https://nishantjoshi-007.github.io/GlowStrike/>Online Demo</a>
-  <span> · </span> <a href=https://github.com/nishantjoshi-007/GlowStrike/tree/WebGl_deployment>Online Version</a> 
-  <span> · </span> <a href=https://github.com/nishantjoshi-007/GlowStrike/tree/local_deployment>Local Version</a> 
+  <span> · </span> <a href=https://nishantjoshi-007.github.io/GlowStrike/>Live Online Demo</a>
+  <span> · </span> <a href=https://github.com/nishantjoshi-007/GlowStrike/tree/local_deployment>View Local Page</a>
+  <span> · </span> <a href=https://github.com/nishantjoshi-007/GlowStrike/tree/WebGl_deployment>View Online Page</a> 
+</h4>
+<h4>
+  <span> · </span> <a href="https://github.com/nishantjoshi-007/GlowStrike/issues"> Request Feature </a>
+  <span> · </span> <a href="https://github.com/nishantjoshi-007/GlowStrike/issues"> Request Feature </a>
 </h4>
 
 </div>
@@ -35,14 +39,8 @@
 git clone -b main --single-branch https://github.com/nishantjoshi-007/GlowStrike.git
 ```
 
-## :warning: License
-Distributed under the MIT License. See <a href=LICENSE>LICENSE.txt</a> for more information.
-
 ## :wave: Contributing
 <img src="https://contrib.rocks/image?repo=Louis3797/awesome-readme-template" /> Contributions to the Glow Strike are always welcome! Whether it's reporting bugs, suggesting new features, or improving the code, your input is valuable. Please feel free to fork this repository, make your changes, and submit a pull request.
 
-## :handshake: Contact
-- <a href=https://github.com/nishantjoshi-007>Github Handle</a>
-- <a href=https://github.com/nishantjoshi-007/GlowStrike.git>Project Repository</a>
-- <a href="https://github.com/nishantjoshi-007/GlowStrike/issues"> Report Bug </a>
-- <a href="https://github.com/nishantjoshi-007/GlowStrike/issues"> Request Feature </a> 
+## :warning: License
+Distributed under the MIT License. See <a href=LICENSE>LICENSE</a> for more information.
