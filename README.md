@@ -5,9 +5,13 @@
 <h1>Glow Strike Local Version</h1>
 
 <h4> 
-  <span> · </span> <a href=https://nishantjoshi-007.github.io/GlowStrike/>View Online Demo</a>
+  <span> · </span> <a href=https://nishantjoshi-007.github.io/GlowStrike/>Live Online Demo</a>
   <span> · </span> <a href=https://github.com/nishantjoshi-007/GlowStrike/tree/main>View Online Version</a>
   <span> · </span> <a href=https://github.com/nishantjoshi-007/GlowStrike>Main Page</a>
+</h4>
+<h4>
+  <span> · </span> <a href="https://github.com/nishantjoshi-007/GlowStrike/issues"> Request Feature </a>
+  <span> · </span> <a href="https://github.com/nishantjoshi-007/GlowStrike/issues"> Request Feature </a>
 </h4>
 </div>
 
@@ -32,10 +36,4 @@ git clone -b local_deployment --single-branch https://github.com/nishantjoshi-00
 - Enjoy The Game
 
 ## :warning: License
-Distributed under the MIT License. See <a href=https://github.com/nishantjoshi-007/GlowStrike/blob/main/LICENSE>LICENSE.txt</a> for more information.
-
-## :handshake: Contact
-- <a href=https://github.com/nishantjoshi-007>Github Handle</a>
-- <a href=https://github.com/nishantjoshi-007/GlowStrike.git>Project Repository</a>
-- <a href="https://github.com/nishantjoshi-007/GlowStrike/issues"> Report Bug </a>
-- <a href="https://github.com/nishantjoshi-007/GlowStrike/issues"> Request Feature </a> 
+Distributed under the MIT License. See <a href=https://github.com/nishantjoshi-007/GlowStrike/blob/main/LICENSE>LICENSE</a> for more information.
