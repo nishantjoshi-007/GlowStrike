@@ -4,11 +4,14 @@
 
 <h1>Glow Strike Online Version</h1>
 <h4> 
-  <span> · </span> <a href=https://nishantjoshi-007.github.io/GlowStrike/>View Online Demo</a> 
-  <span> · </span> <a href=https://github.com/nishantjoshi-007/GlowStrike/tree/local_deployment>Local Version</a>
+  <span> · </span> <a href=https://nishantjoshi-007.github.io/GlowStrike/>Live Online Demo</a>
+  <span> · </span> <a href=https://github.com/nishantjoshi-007/GlowStrike/tree/local_deployment>View Local Page</a>
   <span> · </span> <a href=https://github.com/nishantjoshi-007/GlowStrike>Main Page</a>
 </h4>
-
+<h4>
+  <span> · </span> <a href="https://github.com/nishantjoshi-007/GlowStrike/issues"> Request Feature </a>
+  <span> · </span> <a href="https://github.com/nishantjoshi-007/GlowStrike/issues"> Request Feature </a>
+</h4>
 </div>
 
 ## :star2: About the Project
